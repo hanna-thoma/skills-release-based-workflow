@@ -4,6 +4,8 @@
 */
 
 
+
+
 html,
 body,
 div,
@@ -63,9 +65,4 @@ tbody,
 tfoot,
 thead,
 tr,
-th,
-td,
-body {
-  background-color: black;
-}
- 
+th, 
